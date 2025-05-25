@@ -23,7 +23,7 @@ To write a C program to implement Tower of Hanoi
 /*
 Program to implement Tower of Hanoi
 Developed by:  VIGNESH KUMARAN N S
-RegisterNumber: 212223230023
+RegisterNumber: 212222230171
 
 #include<stdio.h> 
 void TOH(int n,char x,char y,char z) 
